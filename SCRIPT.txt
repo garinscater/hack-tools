@@ -1,6 +1,7 @@
 #!/bin/bash
 #Silahkan di recode :)
-#Jangan Lupa Subscribe MaulanaRyM
+#Jangan Lupa Subscribe Hacker Elite Id
+
 
 #Variables
 b="\033[1m"
@@ -22,7 +23,7 @@ figlet ASW | lolcat
 
 echo "_____________________________________________________________"
 echo "Tools    : Kumpulan ASW Tools $white                         " |lolcat
-echo "Creadby  : Mr.yM $white                                      " |lolcat
+echo "Creadby  : Mr.g4r1n $white                                      " |lolcat
 echo "Contact  : 0852xxxxxxxx   $white                             " |lolcat
 echo "_____________________________________________________________"
 
@@ -117,7 +118,7 @@ bash /data/data/com.termux/files/home/Tool-X/sh install.aex
 ;;
 
 
-6) echo "created by : Mr.yM GANS" | lolcat
+6) echo "created by : Mr.g4r1n" | lolcat
 exit
 ;;
 
