@@ -58,7 +58,7 @@ echo $r "5.  Tools-X${endc}";
 echo "============================" | lolcat
 echo $r "6. Exit${endc}";
 echo ""
-echo "╭─Mr.yM" |lolcat
+echo "╭─Mr.G4r1n" |lolcat
 read -p "╰─#" pil;
 
 # Nmap
